@@ -71,15 +71,7 @@
 ---
 ---
 
-# 🌍 Visitor World Map
 
-<p align="center">
-<img src="https://profile-counter.glitch.me/Manikraul86/count.svg" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Manikraul86&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 ---
 
