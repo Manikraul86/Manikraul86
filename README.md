@@ -2,6 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+Manik+Raul's+GitHub;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%7C+IoT+%7C+Machine+Learning;Building+Real+World+Tech+Projects"/>
 </p>
 
+
 ## Hi there 👋 I'm Manik Raul
 
 - 🔭 I’m currently working on **Web Development projects and an Agricultural Medicine App**
@@ -11,6 +12,9 @@
 - 💬 Ask me about **JavaScript, React, Python, IoT Projects, and Web Development**
 - 📫 How to reach me: **LinkedIn / Email**
 - ⚡ Fun fact: I enjoy building **real-world tech solutions like Smart Plant Monitoring Systems 🌱**
+
+### ✍️  Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌐 Socials:
@@ -27,6 +31,7 @@
 | 💊 Agricultural Medicine App     | Online medicine ordering platform for farmers                 | React, Node.js, MongoDB |
 | 🚗 Accident Predictio            |                                                               |                         |
 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
@@ -37,18 +42,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikraul86&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manikraul86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 📊 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikraul86&theme=react-dark&hide_border=true"/>
 </p>
-
-
 
 # 🧠 Profile Summary Cards
 
