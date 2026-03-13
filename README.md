@@ -48,21 +48,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikraul86&theme=react-dark&hide_border=true"/>
 </p>
 
----
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manikraul86&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Manikraul86&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-
-
-
 
 
 # 🧠 Profile Summary Cards
@@ -77,5 +62,27 @@
 </p>
 
 ---
+
+<p align="center">
+<img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/XP-1200%2F2000-success?style=for-the-badge&logo=code"/>
+</p>
+
+---
+---
+
+# 🌍 Visitor World Map
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/Manikraul86/count.svg" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Manikraul86&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+
 
 
