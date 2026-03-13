@@ -34,3 +34,50 @@
 [![](https://visitcount.itsvg.in/api?id=Manikraul86&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🌌 Matrix Coding Animation
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+Manik+Raul's+GitHub;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%7C+IoT+%7C+Machine+Learning;Building+Real+World+Tech+Projects"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikraul86&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Profile Summary Cards
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikraul86&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manikraul86&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manikraul86&theme=github_dark"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                          | Description                                                   | Tech                    |
+| -------------------------------- | ------------------------------------------------------------- | ----------------------- |
+| 🌱 Smart Plant Monitoring System | IoT system that monitors soil moisture and automates watering | ESP8266, Blynk          |
+| 💊 Agricultural Medicine App     | Online medicine ordering platform for farmers                 | React, Node.js, MongoDB |
+| 🚗 Accident Predictio            |                                                               |                         |
+
